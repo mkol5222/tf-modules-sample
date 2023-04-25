@@ -1,0 +1,4 @@
+cp_mgmt_server = "CHANGE_ME.maas.checkpoint.com"
+cp_mgmt_api_key = "CHANGE_ME"
+# cp_mgmt_context =  # default web_api
+cp_mgmt_cloud_mgmt_id = "CHANGE_ME"
